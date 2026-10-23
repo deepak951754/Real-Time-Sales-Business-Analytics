@@ -1,0 +1,501 @@
+order_date,order_id,product,category,region,quantity,unit_price,unit_cost
+2026-10-17,ORD-00001,Keyboard,Accessories,South,1,800,470
+2025-08-17,ORD-00002,USB-C Hub,Accessories,Central,1,1350.0,950
+2026-03-09,ORD-00003,Wireless Mouse,Accessories,South,1,405.0,250
+2025-08-27,ORD-00004,Monitor 24in,Electronics,Central,5,8820.0,7600
+2025-07-23,ORD-00005,Monitor 24in,Electronics,West,4,9800,7600
+2026-08-27,ORD-00006,Office Chair,Furniture,West,1,5200,3500
+2025-12-15,ORD-00007,Office Chair,Furniture,East,2,5200,3500
+2025-04-15,ORD-00008,Keyboard,Accessories,East,4,720.0,470
+2025-12-19,ORD-00009,Headphones,Electronics,West,3,1980.0,1250
+2026-07-04,ORD-00010,Keyboard,Accessories,Central,4,720.0,470
+2025-10-28,ORD-00011,Headphones,Electronics,North,3,2200,1250
+2025-02-16,ORD-00012,Notebook,Stationery,South,3,72.0,35
+2025-04-14,ORD-00013,Water Bottle,Lifestyle,East,3,367.5,150
+2025-06-16,ORD-00014,Desk Lamp,Furniture,East,3,1200,650
+2025-03-15,ORD-00015,Headphones,Electronics,South,2,2200,1250
+2026-04-19,ORD-00016,Water Bottle,Lifestyle,East,3,350,150
+2025-02-27,ORD-00017,Notebook,Stationery,West,1,80,35
+2025-10-02,ORD-00018,Keyboard,Accessories,South,2,800,470
+2026-05-27,ORD-00019,Water Bottle,Lifestyle,East,4,350,150
+2025-05-23,ORD-00020,Notebook,Stationery,Central,5,80,35
+2026-03-15,ORD-00021,Headphones,Electronics,South,4,2200,1250
+2025-05-22,ORD-00022,Monitor 24in,Electronics,North,4,8820.0,7600
+2025-04-23,ORD-00023,USB-C Hub,Accessories,Central,2,1575.0,950
+2025-03-07,ORD-00024,Water Bottle,Lifestyle,Central,4,367.5,150
+2025-09-15,ORD-00025,Monitor 24in,Electronics,Central,1,8820.0,7600
+2025-10-01,ORD-00026,Desk Lamp,Furniture,West,1,1200,650
+2025-06-11,ORD-00027,Backpack,Lifestyle,Central,1,1400,800
+2025-07-02,ORD-00028,Monitor 24in,Electronics,Central,1,9800,7600
+2026-09-16,ORD-00029,Notebook,Stationery,South,2,80,35
+2026-07-07,ORD-00030,Monitor 24in,Electronics,West,1,9800,7600
+2025-01-20,ORD-00031,Keyboard,Accessories,South,3,800,470
+2025-03-01,ORD-00032,Notebook,Stationery,North,5,72.0,35
+2026-05-13,ORD-00033,Keyboard,Accessories,South,5,800,470
+2026-05-02,ORD-00034,Monitor 24in,Electronics,Central,2,9800,7600
+2026-09-14,ORD-00035,Water Bottle,Lifestyle,East,2,350,150
+2026-02-13,ORD-00036,Desk Lamp,Furniture,North,4,1260.0,650
+2025-09-11,ORD-00037,Notebook,Stationery,North,1,80,35
+2026-08-26,ORD-00038,Monitor 24in,Electronics,North,2,9800,7600
+2025-03-14,ORD-00039,Wireless Mouse,Accessories,North,2,405.0,250
+2025-12-05,ORD-00040,Keyboard,Accessories,East,5,800,470
+2026-05-13,ORD-00041,Notebook,Stationery,Central,5,80,35
+2026-08-14,ORD-00042,Backpack,Lifestyle,West,2,1470.0,800
+2025-07-14,ORD-00043,Keyboard,Accessories,East,1,840.0,470
+2026-03-10,ORD-00044,Water Bottle,Lifestyle,North,4,315.0,150
+2025-03-04,ORD-00045,Water Bottle,Lifestyle,South,3,315.0,150
+2025-07-16,ORD-00046,Notebook,Stationery,South,5,84.0,35
+2026-03-09,ORD-00047,USB-C Hub,Accessories,South,3,1575.0,950
+2025-03-19,ORD-00048,Backpack,Lifestyle,North,5,1260.0,800
+2026-07-08,ORD-00049,Wireless Mouse,Accessories,South,1,450,250
+2026-02-21,ORD-00050,Backpack,Lifestyle,West,4,1400,800
+2025-03-02,ORD-00051,USB-C Hub,Accessories,West,4,1350.0,950
+2025-09-29,ORD-00052,Backpack,Lifestyle,Central,3,1470.0,800
+2026-05-14,ORD-00053,USB-C Hub,Accessories,South,2,1500,950
+2025-03-01,ORD-00054,Headphones,Electronics,East,5,1980.0,1250
+2025-02-28,ORD-00055,Wireless Mouse,Accessories,Central,5,472.5,250
+2026-06-28,ORD-00056,USB-C Hub,Accessories,South,1,1350.0,950
+2025-03-12,ORD-00057,Headphones,Electronics,West,1,2200,1250
+2025-05-03,ORD-00058,Headphones,Electronics,Central,2,1980.0,1250
+2025-03-25,ORD-00059,Water Bottle,Lifestyle,East,5,350,150
+2025-07-29,ORD-00060,Desk Lamp,Furniture,West,2,1200,650
+2025-05-15,ORD-00061,Office Chair,Furniture,North,4,5200,3500
+2025-01-10,ORD-00062,Backpack,Lifestyle,North,5,1260.0,800
+2026-07-05,ORD-00063,Notebook,Stationery,South,5,80,35
+2025-12-24,ORD-00064,Keyboard,Accessories,East,2,800,470
+2025-06-11,ORD-00065,Backpack,Lifestyle,Central,5,1400,800
+2026-06-26,ORD-00066,Wireless Mouse,Accessories,North,5,450,250
+2025-05-18,ORD-00067,Office Chair,Furniture,Central,1,4680.0,3500
+2025-06-09,ORD-00068,Office Chair,Furniture,East,3,5200,3500
+2025-07-28,ORD-00069,Office Chair,Furniture,East,5,5460.0,3500
+2025-02-22,ORD-00070,Keyboard,Accessories,North,4,800,470
+2025-01-04,ORD-00071,Desk Lamp,Furniture,South,2,1200,650
+2026-03-29,ORD-00072,Monitor 24in,Electronics,North,4,8820.0,7600
+2025-03-19,ORD-00073,USB-C Hub,Accessories,East,5,1350.0,950
+2026-08-20,ORD-00074,Monitor 24in,Electronics,South,2,10290.0,7600
+2025-02-12,ORD-00075,Office Chair,Furniture,East,3,4680.0,3500
+2025-08-04,ORD-00076,Notebook,Stationery,Central,1,80,35
+2026-02-21,ORD-00077,Headphones,Electronics,South,2,2200,1250
+2025-07-01,ORD-00078,Water Bottle,Lifestyle,East,1,350,150
+2026-02-26,ORD-00079,Notebook,Stationery,North,3,80,35
+2026-01-27,ORD-00080,Wireless Mouse,Accessories,South,4,450,250
+2026-04-17,ORD-00081,Desk Lamp,Furniture,South,3,1200,650
+2025-01-25,ORD-00082,Notebook,Stationery,East,4,80,35
+2025-03-13,ORD-00083,Office Chair,Furniture,Central,3,5460.0,3500
+2025-12-06,ORD-00084,Wireless Mouse,Accessories,South,1,450,250
+2026-08-18,ORD-00085,Office Chair,Furniture,Central,1,4680.0,3500
+2026-03-21,ORD-00086,Desk Lamp,Furniture,Central,3,1260.0,650
+2026-06-08,ORD-00087,Keyboard,Accessories,East,4,800,470
+2025-02-15,ORD-00088,Water Bottle,Lifestyle,East,1,350,150
+2026-03-18,ORD-00089,Keyboard,Accessories,North,3,800,470
+2025-11-04,ORD-00090,Monitor 24in,Electronics,East,3,10290.0,7600
+2026-02-17,ORD-00091,Office Chair,Furniture,South,5,5200,3500
+2026-03-07,ORD-00092,Water Bottle,Lifestyle,West,2,350,150
+2026-07-16,ORD-00093,Wireless Mouse,Accessories,South,3,450,250
+2026-03-17,ORD-00094,Headphones,Electronics,West,5,2200,1250
+2026-03-29,ORD-00095,Backpack,Lifestyle,South,2,1470.0,800
+2025-03-28,ORD-00096,Office Chair,Furniture,North,5,5200,3500
+2025-08-29,ORD-00097,Office Chair,Furniture,South,2,5200,3500
+2025-01-26,ORD-00098,Wireless Mouse,Accessories,Central,2,472.5,250
+2025-03-16,ORD-00099,Backpack,Lifestyle,West,4,1400,800
+2026-05-22,ORD-00100,Water Bottle,Lifestyle,North,2,350,150
+2025-04-20,ORD-00101,Water Bottle,Lifestyle,Central,2,350,150
+2026-04-21,ORD-00102,Wireless Mouse,Accessories,North,5,450,250
+2026-04-13,ORD-00103,USB-C Hub,Accessories,West,4,1500,950
+2026-09-20,ORD-00104,Monitor 24in,Electronics,South,4,10290.0,7600
+2026-05-02,ORD-00105,Backpack,Lifestyle,East,3,1400,800
+2026-06-18,ORD-00106,Backpack,Lifestyle,West,2,1400,800
+2025-03-21,ORD-00107,Office Chair,Furniture,East,2,5200,3500
+2025-11-24,ORD-00108,Monitor 24in,Electronics,South,1,9800,7600
+2025-08-25,ORD-00109,Water Bottle,Lifestyle,North,2,350,150
+2026-03-01,ORD-00110,Water Bottle,Lifestyle,West,3,367.5,150
+2025-03-05,ORD-00111,Notebook,Stationery,Central,4,84.0,35
+2025-01-21,ORD-00112,Headphones,Electronics,North,4,2310.0,1250
+2025-12-27,ORD-00113,Office Chair,Furniture,Central,4,5460.0,3500
+2026-07-14,ORD-00114,Headphones,Electronics,South,2,2310.0,1250
+2025-10-07,ORD-00115,Water Bottle,Lifestyle,West,4,315.0,150
+2025-12-11,ORD-00116,Water Bottle,Lifestyle,South,2,367.5,150
+2026-09-30,ORD-00117,Monitor 24in,Electronics,Central,1,10290.0,7600
+2026-08-01,ORD-00118,Wireless Mouse,Accessories,South,1,472.5,250
+2026-04-18,ORD-00119,USB-C Hub,Accessories,West,1,1500,950
+2025-12-02,ORD-00120,Notebook,Stationery,East,4,80,35
+2026-01-24,ORD-00121,Office Chair,Furniture,North,4,5200,3500
+2026-04-27,ORD-00122,Wireless Mouse,Accessories,East,5,405.0,250
+2025-08-18,ORD-00123,Keyboard,Accessories,South,1,720.0,470
+2025-07-24,ORD-00124,Wireless Mouse,Accessories,South,5,450,250
+2025-05-10,ORD-00125,Backpack,Lifestyle,West,1,1400,800
+2025-09-20,ORD-00126,Desk Lamp,Furniture,South,2,1080.0,650
+2025-11-15,ORD-00127,Keyboard,Accessories,East,5,720.0,470
+2026-08-13,ORD-00128,Water Bottle,Lifestyle,North,4,350,150
+2026-08-30,ORD-00129,Notebook,Stationery,Central,1,80,35
+2025-05-04,ORD-00130,Headphones,Electronics,Central,1,2200,1250
+2026-03-15,ORD-00131,Desk Lamp,Furniture,North,1,1200,650
+2026-03-07,ORD-00132,Backpack,Lifestyle,East,1,1470.0,800
+2026-10-13,ORD-00133,Backpack,Lifestyle,South,2,1470.0,800
+2026-06-19,ORD-00134,Office Chair,Furniture,West,5,5460.0,3500
+2026-03-23,ORD-00135,Headphones,Electronics,South,3,2200,1250
+2025-03-30,ORD-00136,Office Chair,Furniture,West,4,5200,3500
+2026-08-07,ORD-00137,Headphones,Electronics,North,4,2200,1250
+2026-05-22,ORD-00138,Desk Lamp,Furniture,South,2,1260.0,650
+2025-12-30,ORD-00139,Office Chair,Furniture,Central,3,5200,3500
+2025-10-10,ORD-00140,Monitor 24in,Electronics,North,1,9800,7600
+2025-09-05,ORD-00141,Water Bottle,Lifestyle,West,4,350,150
+2026-05-18,ORD-00142,Backpack,Lifestyle,East,1,1260.0,800
+2025-08-15,ORD-00143,Water Bottle,Lifestyle,Central,2,350,150
+2026-01-13,ORD-00144,Backpack,Lifestyle,West,5,1400,800
+2026-07-18,ORD-00145,Desk Lamp,Furniture,East,3,1260.0,650
+2025-11-10,ORD-00146,Office Chair,Furniture,South,2,4680.0,3500
+2025-11-20,ORD-00147,Keyboard,Accessories,South,5,800,470
+2025-08-10,ORD-00148,Backpack,Lifestyle,North,3,1400,800
+2025-07-18,ORD-00149,Office Chair,Furniture,South,2,5200,3500
+2025-11-06,ORD-00150,Wireless Mouse,Accessories,East,5,450,250
+2025-02-16,ORD-00151,Wireless Mouse,Accessories,South,5,450,250
+2026-10-16,ORD-00152,Backpack,Lifestyle,Central,1,1260.0,800
+2025-10-19,ORD-00153,Backpack,Lifestyle,East,4,1470.0,800
+2025-07-08,ORD-00154,Wireless Mouse,Accessories,North,3,472.5,250
+2025-03-08,ORD-00155,Water Bottle,Lifestyle,Central,4,315.0,150
+2026-10-07,ORD-00156,Wireless Mouse,Accessories,Central,2,450,250
+2025-11-08,ORD-00157,Keyboard,Accessories,Central,2,720.0,470
+2026-03-03,ORD-00158,Headphones,Electronics,Central,5,2200,1250
+2026-01-25,ORD-00159,Backpack,Lifestyle,Central,4,1400,800
+2026-03-16,ORD-00160,Office Chair,Furniture,Central,5,4680.0,3500
+2025-04-12,ORD-00161,Notebook,Stationery,North,2,80,35
+2025-06-10,ORD-00162,Notebook,Stationery,South,2,72.0,35
+2025-01-03,ORD-00163,Water Bottle,Lifestyle,East,4,367.5,150
+2025-02-03,ORD-00164,Notebook,Stationery,West,3,80,35
+2025-03-14,ORD-00165,Notebook,Stationery,West,3,80,35
+2025-04-28,ORD-00166,Monitor 24in,Electronics,East,2,9800,7600
+2025-05-26,ORD-00167,Keyboard,Accessories,East,1,800,470
+2026-09-02,ORD-00168,Headphones,Electronics,North,3,2310.0,1250
+2026-04-25,ORD-00169,Office Chair,Furniture,Central,4,5200,3500
+2026-07-07,ORD-00170,Backpack,Lifestyle,Central,4,1260.0,800
+2025-02-10,ORD-00171,Water Bottle,Lifestyle,North,3,350,150
+2025-04-04,ORD-00172,Notebook,Stationery,East,5,72.0,35
+2026-08-14,ORD-00173,Wireless Mouse,Accessories,Central,2,472.5,250
+2026-03-29,ORD-00174,Office Chair,Furniture,West,2,5460.0,3500
+2025-04-04,ORD-00175,Backpack,Lifestyle,East,3,1470.0,800
+2025-11-25,ORD-00176,Keyboard,Accessories,West,2,800,470
+2026-05-23,ORD-00177,Office Chair,Furniture,West,4,4680.0,3500
+2025-04-01,ORD-00178,Desk Lamp,Furniture,North,3,1200,650
+2026-02-18,ORD-00179,Monitor 24in,Electronics,West,1,10290.0,7600
+2025-02-25,ORD-00180,Notebook,Stationery,Central,5,80,35
+2026-05-26,ORD-00181,Backpack,Lifestyle,East,1,1400,800
+2026-07-17,ORD-00182,USB-C Hub,Accessories,West,3,1575.0,950
+2025-05-05,ORD-00183,Wireless Mouse,Accessories,South,5,450,250
+2025-11-15,ORD-00184,Monitor 24in,Electronics,North,1,10290.0,7600
+2025-08-19,ORD-00185,Keyboard,Accessories,South,4,720.0,470
+2026-05-26,ORD-00186,Office Chair,Furniture,West,5,5200,3500
+2026-05-10,ORD-00187,Backpack,Lifestyle,Central,2,1470.0,800
+2025-05-29,ORD-00188,Water Bottle,Lifestyle,North,2,350,150
+2025-10-10,ORD-00189,Water Bottle,Lifestyle,North,3,350,150
+2025-10-17,ORD-00190,Office Chair,Furniture,South,5,5460.0,3500
+2026-04-03,ORD-00191,Monitor 24in,Electronics,East,4,9800,7600
+2026-07-20,ORD-00192,Monitor 24in,Electronics,East,4,10290.0,7600
+2025-07-13,ORD-00193,Notebook,Stationery,South,5,84.0,35
+2026-02-25,ORD-00194,Wireless Mouse,Accessories,West,3,472.5,250
+2026-01-31,ORD-00195,USB-C Hub,Accessories,South,4,1350.0,950
+2026-05-30,ORD-00196,Headphones,Electronics,West,3,1980.0,1250
+2025-04-13,ORD-00197,Monitor 24in,Electronics,South,4,8820.0,7600
+2026-02-24,ORD-00198,USB-C Hub,Accessories,East,1,1575.0,950
+2025-12-13,ORD-00199,Headphones,Electronics,East,4,1980.0,1250
+2026-07-01,ORD-00200,Water Bottle,Lifestyle,Central,3,367.5,150
+2025-02-06,ORD-00201,Headphones,Electronics,East,1,2200,1250
+2025-08-21,ORD-00202,Keyboard,Accessories,North,4,720.0,470
+2026-03-31,ORD-00203,USB-C Hub,Accessories,North,3,1350.0,950
+2025-11-29,ORD-00204,Wireless Mouse,Accessories,East,3,450,250
+2026-03-18,ORD-00205,USB-C Hub,Accessories,Central,2,1575.0,950
+2025-07-04,ORD-00206,USB-C Hub,Accessories,Central,2,1350.0,950
+2026-01-27,ORD-00207,Headphones,Electronics,Central,2,2310.0,1250
+2025-05-27,ORD-00208,Notebook,Stationery,West,4,80,35
+2025-09-19,ORD-00209,Wireless Mouse,Accessories,Central,4,450,250
+2025-06-11,ORD-00210,Keyboard,Accessories,Central,4,800,470
+2025-11-03,ORD-00211,Water Bottle,Lifestyle,East,3,367.5,150
+2025-07-23,ORD-00212,Water Bottle,Lifestyle,South,4,315.0,150
+2026-01-26,ORD-00213,Headphones,Electronics,East,3,2200,1250
+2025-01-23,ORD-00214,Water Bottle,Lifestyle,Central,3,315.0,150
+2025-02-20,ORD-00215,Headphones,Electronics,South,4,2200,1250
+2026-09-14,ORD-00216,Desk Lamp,Furniture,Central,2,1200,650
+2025-09-14,ORD-00217,USB-C Hub,Accessories,East,1,1350.0,950
+2026-03-28,ORD-00218,Wireless Mouse,Accessories,South,5,450,250
+2025-04-03,ORD-00219,Office Chair,Furniture,South,3,5460.0,3500
+2025-07-25,ORD-00220,USB-C Hub,Accessories,Central,5,1500,950
+2026-05-29,ORD-00221,Office Chair,Furniture,West,2,5200,3500
+2025-10-30,ORD-00222,Desk Lamp,Furniture,North,1,1260.0,650
+2025-05-25,ORD-00223,Notebook,Stationery,North,4,80,35
+2026-02-09,ORD-00224,Wireless Mouse,Accessories,West,3,405.0,250
+2026-01-13,ORD-00225,Office Chair,Furniture,East,5,5460.0,3500
+2025-04-21,ORD-00226,Notebook,Stationery,Central,4,72.0,35
+2026-07-29,ORD-00227,Desk Lamp,Furniture,North,5,1200,650
+2026-10-13,ORD-00228,Backpack,Lifestyle,North,3,1470.0,800
+2025-05-24,ORD-00229,Wireless Mouse,Accessories,West,1,450,250
+2025-04-29,ORD-00230,Keyboard,Accessories,West,2,800,470
+2026-04-10,ORD-00231,Desk Lamp,Furniture,Central,5,1260.0,650
+2025-06-08,ORD-00232,Water Bottle,Lifestyle,Central,1,367.5,150
+2026-02-22,ORD-00233,Office Chair,Furniture,South,1,5200,3500
+2026-03-31,ORD-00234,Backpack,Lifestyle,North,2,1400,800
+2026-01-12,ORD-00235,Monitor 24in,Electronics,West,3,8820.0,7600
+2025-10-10,ORD-00236,Notebook,Stationery,North,1,84.0,35
+2025-08-06,ORD-00237,Headphones,Electronics,East,1,1980.0,1250
+2025-09-07,ORD-00238,USB-C Hub,Accessories,North,5,1500,950
+2026-07-22,ORD-00239,Notebook,Stationery,South,5,80,35
+2025-12-03,ORD-00240,USB-C Hub,Accessories,East,5,1350.0,950
+2025-05-29,ORD-00241,USB-C Hub,Accessories,South,5,1500,950
+2025-04-23,ORD-00242,Wireless Mouse,Accessories,East,2,405.0,250
+2025-09-01,ORD-00243,Headphones,Electronics,South,3,1980.0,1250
+2025-09-29,ORD-00244,Wireless Mouse,Accessories,Central,2,472.5,250
+2025-04-27,ORD-00245,Keyboard,Accessories,East,4,840.0,470
+2026-06-10,ORD-00246,Headphones,Electronics,Central,1,2310.0,1250
+2025-08-15,ORD-00247,Headphones,Electronics,West,1,2200,1250
+2026-10-21,ORD-00248,Wireless Mouse,Accessories,West,1,472.5,250
+2026-03-13,ORD-00249,Keyboard,Accessories,North,4,840.0,470
+2025-03-24,ORD-00250,Desk Lamp,Furniture,North,5,1200,650
+2025-05-10,ORD-00251,Office Chair,Furniture,West,5,5200,3500
+2026-09-04,ORD-00252,Monitor 24in,Electronics,Central,3,10290.0,7600
+2026-09-12,ORD-00253,Water Bottle,Lifestyle,Central,1,315.0,150
+2025-08-09,ORD-00254,Water Bottle,Lifestyle,West,4,350,150
+2025-12-14,ORD-00255,Backpack,Lifestyle,North,4,1470.0,800
+2025-11-17,ORD-00256,Water Bottle,Lifestyle,East,3,350,150
+2025-06-06,ORD-00257,Backpack,Lifestyle,North,1,1260.0,800
+2025-04-06,ORD-00258,Water Bottle,Lifestyle,South,1,350,150
+2026-07-24,ORD-00259,Wireless Mouse,Accessories,North,5,450,250
+2026-02-25,ORD-00260,Desk Lamp,Furniture,East,4,1080.0,650
+2026-09-07,ORD-00261,Office Chair,Furniture,Central,3,4680.0,3500
+2026-06-04,ORD-00262,Notebook,Stationery,South,2,84.0,35
+2025-04-21,ORD-00263,Desk Lamp,Furniture,North,5,1200,650
+2025-10-13,ORD-00264,Headphones,Electronics,Central,2,2310.0,1250
+2026-09-29,ORD-00265,Headphones,Electronics,Central,5,1980.0,1250
+2025-10-01,ORD-00266,Wireless Mouse,Accessories,East,2,450,250
+2025-12-14,ORD-00267,Desk Lamp,Furniture,South,1,1200,650
+2026-08-03,ORD-00268,Water Bottle,Lifestyle,North,1,350,150
+2025-04-04,ORD-00269,Monitor 24in,Electronics,West,2,10290.0,7600
+2026-04-10,ORD-00270,Desk Lamp,Furniture,East,2,1200,650
+2025-11-29,ORD-00271,Headphones,Electronics,North,5,1980.0,1250
+2025-06-09,ORD-00272,USB-C Hub,Accessories,North,5,1350.0,950
+2025-10-06,ORD-00273,Backpack,Lifestyle,Central,4,1470.0,800
+2026-03-29,ORD-00274,Water Bottle,Lifestyle,Central,3,350,150
+2025-04-27,ORD-00275,Desk Lamp,Furniture,East,4,1080.0,650
+2026-08-31,ORD-00276,Backpack,Lifestyle,North,5,1400,800
+2025-08-14,ORD-00277,Water Bottle,Lifestyle,North,5,315.0,150
+2025-07-29,ORD-00278,Office Chair,Furniture,East,2,5200,3500
+2025-10-24,ORD-00279,Desk Lamp,Furniture,West,1,1080.0,650
+2026-03-17,ORD-00280,USB-C Hub,Accessories,Central,2,1575.0,950
+2025-08-24,ORD-00281,Monitor 24in,Electronics,North,5,9800,7600
+2026-02-11,ORD-00282,Wireless Mouse,Accessories,West,4,405.0,250
+2025-03-21,ORD-00283,Desk Lamp,Furniture,Central,5,1260.0,650
+2026-02-19,ORD-00284,Water Bottle,Lifestyle,West,3,315.0,150
+2025-01-22,ORD-00285,Desk Lamp,Furniture,East,2,1260.0,650
+2025-04-01,ORD-00286,Water Bottle,Lifestyle,West,1,350,150
+2026-08-27,ORD-00287,Water Bottle,Lifestyle,West,5,315.0,150
+2025-11-14,ORD-00288,Desk Lamp,Furniture,South,2,1200,650
+2025-03-20,ORD-00289,Monitor 24in,Electronics,East,1,9800,7600
+2025-12-26,ORD-00290,USB-C Hub,Accessories,South,2,1350.0,950
+2025-09-20,ORD-00291,Notebook,Stationery,North,2,80,35
+2025-07-01,ORD-00292,Backpack,Lifestyle,Central,4,1470.0,800
+2026-10-21,ORD-00293,Headphones,Electronics,South,3,2200,1250
+2026-03-27,ORD-00294,Keyboard,Accessories,East,4,840.0,470
+2025-10-09,ORD-00295,Headphones,Electronics,Central,1,2200,1250
+2025-03-17,ORD-00296,Office Chair,Furniture,North,4,5460.0,3500
+2025-02-28,ORD-00297,Desk Lamp,Furniture,North,3,1080.0,650
+2026-09-22,ORD-00298,Headphones,Electronics,West,5,2310.0,1250
+2026-08-18,ORD-00299,Monitor 24in,Electronics,Central,1,10290.0,7600
+2025-07-12,ORD-00300,Desk Lamp,Furniture,Central,5,1260.0,650
+2025-06-04,ORD-00301,Wireless Mouse,Accessories,East,4,405.0,250
+2025-03-28,ORD-00302,Monitor 24in,Electronics,South,2,8820.0,7600
+2026-03-25,ORD-00303,Backpack,Lifestyle,East,5,1400,800
+2026-01-17,ORD-00304,Office Chair,Furniture,East,4,5460.0,3500
+2026-09-05,ORD-00305,Wireless Mouse,Accessories,East,3,405.0,250
+2025-04-07,ORD-00306,Monitor 24in,Electronics,East,4,9800,7600
+2026-09-10,ORD-00307,USB-C Hub,Accessories,Central,3,1350.0,950
+2025-05-25,ORD-00308,Desk Lamp,Furniture,South,3,1260.0,650
+2026-09-02,ORD-00309,Keyboard,Accessories,East,3,840.0,470
+2025-05-11,ORD-00310,Monitor 24in,Electronics,Central,1,10290.0,7600
+2026-01-06,ORD-00311,Wireless Mouse,Accessories,South,3,450,250
+2025-08-08,ORD-00312,Desk Lamp,Furniture,South,4,1200,650
+2025-05-21,ORD-00313,USB-C Hub,Accessories,North,1,1500,950
+2026-06-04,ORD-00314,Monitor 24in,Electronics,East,5,8820.0,7600
+2026-09-25,ORD-00315,USB-C Hub,Accessories,South,5,1575.0,950
+2025-06-16,ORD-00316,USB-C Hub,Accessories,West,5,1500,950
+2025-02-14,ORD-00317,Water Bottle,Lifestyle,West,3,350,150
+2026-09-18,ORD-00318,Office Chair,Furniture,Central,4,5200,3500
+2025-09-02,ORD-00319,Office Chair,Furniture,East,4,5200,3500
+2026-08-08,ORD-00320,Backpack,Lifestyle,West,4,1400,800
+2026-05-30,ORD-00321,Monitor 24in,Electronics,South,4,9800,7600
+2026-09-12,ORD-00322,USB-C Hub,Accessories,West,3,1350.0,950
+2026-01-16,ORD-00323,Monitor 24in,Electronics,East,1,8820.0,7600
+2025-03-27,ORD-00324,USB-C Hub,Accessories,Central,3,1575.0,950
+2025-05-31,ORD-00325,Water Bottle,Lifestyle,West,1,350,150
+2025-12-24,ORD-00326,Wireless Mouse,Accessories,West,4,405.0,250
+2026-05-30,ORD-00327,Desk Lamp,Furniture,North,2,1260.0,650
+2026-01-19,ORD-00328,Notebook,Stationery,North,1,80,35
+2025-12-10,ORD-00329,USB-C Hub,Accessories,East,2,1350.0,950
+2026-04-29,ORD-00330,USB-C Hub,Accessories,Central,4,1575.0,950
+2025-01-06,ORD-00331,Keyboard,Accessories,South,1,800,470
+2025-06-03,ORD-00332,Monitor 24in,Electronics,North,5,10290.0,7600
+2025-10-23,ORD-00333,Notebook,Stationery,North,3,72.0,35
+2025-09-02,ORD-00334,Water Bottle,Lifestyle,North,5,367.5,150
+2025-04-24,ORD-00335,Backpack,Lifestyle,Central,5,1260.0,800
+2026-08-12,ORD-00336,Notebook,Stationery,West,2,80,35
+2025-01-02,ORD-00337,Headphones,Electronics,Central,3,2200,1250
+2026-03-03,ORD-00338,USB-C Hub,Accessories,North,1,1500,950
+2026-06-23,ORD-00339,Monitor 24in,Electronics,West,5,8820.0,7600
+2026-04-27,ORD-00340,Wireless Mouse,Accessories,East,4,450,250
+2025-01-17,ORD-00341,Desk Lamp,Furniture,South,1,1200,650
+2026-10-06,ORD-00342,Keyboard,Accessories,South,5,800,470
+2025-02-15,ORD-00343,Desk Lamp,Furniture,South,5,1200,650
+2026-04-21,ORD-00344,Backpack,Lifestyle,North,2,1400,800
+2026-04-14,ORD-00345,Wireless Mouse,Accessories,North,3,450,250
+2025-07-24,ORD-00346,Wireless Mouse,Accessories,Central,3,450,250
+2026-02-12,ORD-00347,Monitor 24in,Electronics,North,4,9800,7600
+2025-07-15,ORD-00348,Office Chair,Furniture,East,3,4680.0,3500
+2025-10-07,ORD-00349,Keyboard,Accessories,West,3,840.0,470
+2026-03-27,ORD-00350,Water Bottle,Lifestyle,West,3,350,150
+2026-05-25,ORD-00351,Desk Lamp,Furniture,North,5,1200,650
+2026-03-11,ORD-00352,Keyboard,Accessories,Central,4,800,470
+2025-10-28,ORD-00353,Desk Lamp,Furniture,East,1,1080.0,650
+2025-10-30,ORD-00354,Office Chair,Furniture,South,4,5460.0,3500
+2026-03-31,ORD-00355,Desk Lamp,Furniture,East,4,1080.0,650
+2026-09-22,ORD-00356,Water Bottle,Lifestyle,North,3,315.0,150
+2026-10-15,ORD-00357,Water Bottle,Lifestyle,North,3,350,150
+2025-05-27,ORD-00358,Headphones,Electronics,South,4,1980.0,1250
+2025-03-10,ORD-00359,Notebook,Stationery,West,3,80,35
+2026-08-04,ORD-00360,Wireless Mouse,Accessories,West,5,450,250
+2026-01-15,ORD-00361,Desk Lamp,Furniture,Central,4,1080.0,650
+2025-05-21,ORD-00362,Monitor 24in,Electronics,East,3,10290.0,7600
+2025-10-13,ORD-00363,Notebook,Stationery,South,1,72.0,35
+2026-05-27,ORD-00364,Monitor 24in,Electronics,East,4,8820.0,7600
+2025-09-24,ORD-00365,Backpack,Lifestyle,West,2,1400,800
+2025-07-24,ORD-00366,Keyboard,Accessories,West,2,720.0,470
+2025-06-26,ORD-00367,Backpack,Lifestyle,East,1,1400,800
+2025-03-08,ORD-00368,Monitor 24in,Electronics,East,5,9800,7600
+2025-06-11,ORD-00369,USB-C Hub,Accessories,North,3,1500,950
+2025-07-25,ORD-00370,USB-C Hub,Accessories,North,2,1575.0,950
+2026-01-05,ORD-00371,Monitor 24in,Electronics,West,5,9800,7600
+2026-07-19,ORD-00372,USB-C Hub,Accessories,North,5,1350.0,950
+2025-11-13,ORD-00373,Water Bottle,Lifestyle,West,4,367.5,150
+2026-08-12,ORD-00374,Keyboard,Accessories,North,2,800,470
+2026-04-06,ORD-00375,Backpack,Lifestyle,South,5,1400,800
+2026-07-19,ORD-00376,Headphones,Electronics,West,2,2200,1250
+2026-05-30,ORD-00377,Wireless Mouse,Accessories,East,1,450,250
+2025-06-18,ORD-00378,USB-C Hub,Accessories,East,3,1500,950
+2026-06-16,ORD-00379,Office Chair,Furniture,South,1,5200,3500
+2026-10-13,ORD-00380,Monitor 24in,Electronics,East,3,9800,7600
+2026-09-22,ORD-00381,Monitor 24in,Electronics,Central,1,9800,7600
+2026-08-18,ORD-00382,USB-C Hub,Accessories,Central,2,1500,950
+2025-02-12,ORD-00383,Wireless Mouse,Accessories,Central,1,405.0,250
+2025-09-29,ORD-00384,Notebook,Stationery,Central,5,84.0,35
+2026-10-17,ORD-00385,Wireless Mouse,Accessories,East,4,450,250
+2026-05-10,ORD-00386,Notebook,Stationery,West,4,80,35
+2025-03-16,ORD-00387,Wireless Mouse,Accessories,West,2,472.5,250
+2026-05-11,ORD-00388,Backpack,Lifestyle,Central,2,1400,800
+2025-05-28,ORD-00389,Desk Lamp,Furniture,West,3,1200,650
+2025-05-14,ORD-00390,Desk Lamp,Furniture,East,5,1080.0,650
+2025-09-05,ORD-00391,Backpack,Lifestyle,West,1,1400,800
+2025-09-11,ORD-00392,USB-C Hub,Accessories,East,1,1350.0,950
+2026-01-29,ORD-00393,Headphones,Electronics,South,4,2200,1250
+2025-12-02,ORD-00394,Headphones,Electronics,South,3,2200,1250
+2026-05-26,ORD-00395,Monitor 24in,Electronics,East,4,10290.0,7600
+2026-05-25,ORD-00396,Wireless Mouse,Accessories,Central,1,472.5,250
+2026-04-14,ORD-00397,Notebook,Stationery,North,2,80,35
+2025-02-21,ORD-00398,Office Chair,Furniture,East,4,5460.0,3500
+2026-07-04,ORD-00399,Wireless Mouse,Accessories,South,1,472.5,250
+2025-09-28,ORD-00400,Desk Lamp,Furniture,North,4,1200,650
+2026-02-15,ORD-00401,Wireless Mouse,Accessories,East,5,450,250
+2026-07-21,ORD-00402,Office Chair,Furniture,Central,1,5460.0,3500
+2026-04-07,ORD-00403,Monitor 24in,Electronics,South,3,8820.0,7600
+2025-04-10,ORD-00404,Water Bottle,Lifestyle,Central,3,350,150
+2026-01-10,ORD-00405,USB-C Hub,Accessories,Central,2,1575.0,950
+2025-02-11,ORD-00406,Wireless Mouse,Accessories,East,1,450,250
+2026-05-01,ORD-00407,Monitor 24in,Electronics,Central,4,9800,7600
+2026-06-12,ORD-00408,USB-C Hub,Accessories,South,3,1500,950
+2026-02-07,ORD-00409,Headphones,Electronics,Central,3,2200,1250
+2026-06-06,ORD-00410,Monitor 24in,Electronics,West,4,9800,7600
+2025-01-18,ORD-00411,Desk Lamp,Furniture,West,3,1080.0,650
+2026-08-21,ORD-00412,Office Chair,Furniture,East,1,5460.0,3500
+2026-08-16,ORD-00413,Headphones,Electronics,Central,2,1980.0,1250
+2026-05-07,ORD-00414,USB-C Hub,Accessories,South,5,1575.0,950
+2025-09-06,ORD-00415,Wireless Mouse,Accessories,South,5,405.0,250
+2025-01-20,ORD-00416,Backpack,Lifestyle,South,3,1470.0,800
+2026-02-27,ORD-00417,Notebook,Stationery,North,4,84.0,35
+2025-05-22,ORD-00418,Monitor 24in,Electronics,West,2,9800,7600
+2026-06-23,ORD-00419,Water Bottle,Lifestyle,West,3,350,150
+2026-06-30,ORD-00420,Desk Lamp,Furniture,East,5,1200,650
+2026-09-17,ORD-00421,Backpack,Lifestyle,East,2,1400,800
+2026-07-26,ORD-00422,Office Chair,Furniture,East,2,5200,3500
+2025-08-01,ORD-00423,Backpack,Lifestyle,East,3,1470.0,800
+2026-07-28,ORD-00424,Office Chair,Furniture,Central,3,4680.0,3500
+2026-07-11,ORD-00425,Water Bottle,Lifestyle,South,4,350,150
+2025-10-25,ORD-00426,Wireless Mouse,Accessories,East,3,405.0,250
+2026-03-29,ORD-00427,Office Chair,Furniture,South,4,5200,3500
+2026-07-06,ORD-00428,Office Chair,Furniture,South,5,5200,3500
+2025-04-22,ORD-00429,Headphones,Electronics,South,5,2200,1250
+2025-02-21,ORD-00430,Monitor 24in,Electronics,North,2,9800,7600
+2025-04-13,ORD-00431,Water Bottle,Lifestyle,North,3,367.5,150
+2025-05-21,ORD-00432,Wireless Mouse,Accessories,West,5,450,250
+2026-05-03,ORD-00433,Backpack,Lifestyle,East,2,1400,800
+2025-10-20,ORD-00434,Wireless Mouse,Accessories,Central,1,450,250
+2025-02-08,ORD-00435,USB-C Hub,Accessories,North,4,1500,950
+2026-02-11,ORD-00436,Backpack,Lifestyle,North,2,1400,800
+2025-01-10,ORD-00437,Office Chair,Furniture,East,5,4680.0,3500
+2025-10-19,ORD-00438,Backpack,Lifestyle,South,5,1470.0,800
+2026-06-01,ORD-00439,Backpack,Lifestyle,North,3,1400,800
+2025-12-05,ORD-00440,USB-C Hub,Accessories,South,4,1500,950
+2025-01-15,ORD-00441,Desk Lamp,Furniture,South,3,1200,650
+2026-09-18,ORD-00442,Water Bottle,Lifestyle,North,4,350,150
+2026-02-15,ORD-00443,Keyboard,Accessories,West,2,800,470
+2025-11-28,ORD-00444,Notebook,Stationery,West,1,80,35
+2025-08-30,ORD-00445,Backpack,Lifestyle,East,3,1400,800
+2026-08-20,ORD-00446,Headphones,Electronics,East,1,2200,1250
+2025-08-30,ORD-00447,Wireless Mouse,Accessories,East,1,472.5,250
+2025-06-13,ORD-00448,Water Bottle,Lifestyle,North,5,350,150
+2026-10-17,ORD-00449,Office Chair,Furniture,South,3,5200,3500
+2025-05-17,ORD-00450,Backpack,Lifestyle,Central,2,1470.0,800
+2026-01-18,ORD-00451,Water Bottle,Lifestyle,Central,5,367.5,150
+2025-08-12,ORD-00452,Notebook,Stationery,Central,5,72.0,35
+2026-04-03,ORD-00453,Monitor 24in,Electronics,Central,3,8820.0,7600
+2025-04-25,ORD-00454,Wireless Mouse,Accessories,Central,5,450,250
+2026-07-04,ORD-00455,USB-C Hub,Accessories,Central,2,1500,950
+2026-03-29,ORD-00456,Keyboard,Accessories,North,2,840.0,470
+2026-06-07,ORD-00457,Backpack,Lifestyle,South,1,1470.0,800
+2026-06-10,ORD-00458,Water Bottle,Lifestyle,Central,4,315.0,150
+2026-04-19,ORD-00459,Office Chair,Furniture,East,1,5460.0,3500
+2025-01-04,ORD-00460,Notebook,Stationery,North,5,72.0,35
+2026-03-10,ORD-00461,Desk Lamp,Furniture,North,1,1080.0,650
+2026-04-29,ORD-00462,Wireless Mouse,Accessories,South,3,472.5,250
+2025-05-19,ORD-00463,Water Bottle,Lifestyle,West,3,367.5,150
+2026-01-22,ORD-00464,Water Bottle,Lifestyle,East,1,350,150
+2025-05-02,ORD-00465,USB-C Hub,Accessories,Central,5,1575.0,950
+2025-05-11,ORD-00466,Notebook,Stationery,East,1,72.0,35
+2026-04-20,ORD-00467,Monitor 24in,Electronics,South,4,10290.0,7600
+2025-09-11,ORD-00468,Backpack,Lifestyle,East,3,1400,800
+2025-07-13,ORD-00469,Keyboard,Accessories,Central,1,840.0,470
+2025-01-17,ORD-00470,Notebook,Stationery,North,2,72.0,35
+2026-09-01,ORD-00471,Wireless Mouse,Accessories,South,4,405.0,250
+2025-02-15,ORD-00472,Water Bottle,Lifestyle,Central,4,350,150
+2025-08-11,ORD-00473,Wireless Mouse,Accessories,South,2,450,250
+2026-08-13,ORD-00474,Desk Lamp,Furniture,South,5,1200,650
+2025-11-06,ORD-00475,USB-C Hub,Accessories,West,5,1500,950
+2025-11-04,ORD-00476,Office Chair,Furniture,West,1,5200,3500
+2026-07-24,ORD-00477,Backpack,Lifestyle,West,1,1400,800
+2026-06-22,ORD-00478,Desk Lamp,Furniture,South,4,1260.0,650
+2025-11-04,ORD-00479,Water Bottle,Lifestyle,South,2,367.5,150
+2025-08-19,ORD-00480,Office Chair,Furniture,North,2,5460.0,3500
+2026-07-30,ORD-00481,Water Bottle,Lifestyle,West,4,350,150
+2025-09-06,ORD-00482,Office Chair,Furniture,North,2,5200,3500
+2026-04-06,ORD-00483,Desk Lamp,Furniture,North,1,1200,650
+2025-10-02,ORD-00484,Water Bottle,Lifestyle,North,5,315.0,150
+2025-07-12,ORD-00485,Headphones,Electronics,West,5,2200,1250
+2025-08-02,ORD-00486,Desk Lamp,Furniture,South,3,1080.0,650
+2025-07-14,ORD-00487,Keyboard,Accessories,Central,4,800,470
+2025-07-29,ORD-00488,Water Bottle,Lifestyle,East,2,350,150
+2026-01-25,ORD-00489,Backpack,Lifestyle,East,5,1400,800
+2025-09-25,ORD-00490,Desk Lamp,Furniture,West,5,1260.0,650
+2025-04-11,ORD-00491,Backpack,Lifestyle,East,3,1400,800
+2025-11-17,ORD-00492,Water Bottle,Lifestyle,South,1,350,150
+2025-01-17,ORD-00493,Office Chair,Furniture,East,5,5460.0,3500
+2025-06-06,ORD-00494,Notebook,Stationery,West,3,80,35
+2026-08-07,ORD-00495,Notebook,Stationery,East,4,80,35
+2026-05-16,ORD-00496,Backpack,Lifestyle,East,4,1400,800
+2025-06-23,ORD-00497,USB-C Hub,Accessories,South,5,1575.0,950
+2026-07-10,ORD-00498,Wireless Mouse,Accessories,North,5,405.0,250
+2025-02-19,ORD-00499,Wireless Mouse,Accessories,South,4,450,250
+2025-03-11,ORD-00500,USB-C Hub,Accessories,Central,1,1500,950
